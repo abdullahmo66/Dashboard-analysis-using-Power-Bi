@@ -56,33 +56,5 @@ This Power BI report uses a **Star Schema** for optimized performance.
 
 ------------------------------------------------------------------------
 
-## 📂 File Contents
 
-  -----------------------------------------------------------------------
-  File                   Description
-  ---------------------- ------------------------------------------------
-  **Analysis.pbix**      Complete Power BI report with visuals, measures,
-                         and data model
 
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 📥 How to Use
-
-1.  Download **Analysis.pbix**\
-2.  Open using **Power BI Desktop**\
-3.  Refresh the data source if needed\
-4.  Explore visuals, KPIs, and filters to analyze performance
-
-------------------------------------------------------------------------
-
-## 🤝 Contributions
-
-Feel free to open issues or suggest improvements.
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-This project is available under the **MIT License**.
